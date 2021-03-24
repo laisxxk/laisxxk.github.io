@@ -1,0 +1,441 @@
+.encaixa{
+	top:0px;
+	left:0px;
+	width:1400px;
+	height:630px;
+	
+position:absolute;}
+
+.lais{
+	top:55px;
+	left:400px;
+position:absolute;}
+
+.centro {
+		top:9.5%;
+		left:26%;
+		position:absolute;
+		}
+		
+		.frames {
+		top:55px;
+position:absolute;
+left:400px;
+		z-index:1;
+		transition: transform .2s; 
+		  margin: 0 auto;
+		}
+		
+		.frames:hover {
+      transform: scale(1.2);
+    }
+	
+.fundao{
+	width:1400px;
+		height:120%;
+		left:0px;
+		top:630px;
+		position:absolute;
+		}
+}
+.linha{
+	height:250px;
+		left:0px;
+		top:607px;
+		position:absolute;
+		background-image:url('img/linha.png');
+}
+.back{
+		width:1400px;
+		height:10px;
+		left:0px;
+		top:630px;
+		position:relative;
+		z-index:1;
+}
+
+.carta1{
+	height:100px;
+	width:100px;
+	top:690px;
+	left:100px;
+	position:absolute;
+	}
+	
+	.carta1 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+
+.carta1 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	 border-radius: 8px;
+}
+	
+	.carta2{
+	height:100px;
+	width:100px;
+	top:690px;
+	left:400px;
+	position:absolute;}
+	
+		.carta2 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta2 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	
+	.carta3{
+	height:100px;
+	width:100px;
+	top:690px;
+	left:700px;
+	position:absolute;}
+	
+		.carta3 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	
+	.carta3 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+
+	.carta4{
+	height:100px;
+	width:100px;
+	top:690px;
+	left:1000px;
+	position:absolute;}
+	
+	
+		.carta4 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+  border-radius: 8px;
+}
+
+.carta4 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta5{
+	height:100px;
+	width:100px;
+	top:1090px;
+	left:100px;
+	position:absolute;}
+	
+		.carta5 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+
+}
+	.carta5 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta6{
+	height:100px;
+	width:100px;
+	top:1090px;
+	left:400px;
+	position:absolute;}
+	
+		.carta6 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta6 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta7{
+	height:100px;
+	width:100px;
+	top:1090px;
+	left:700px;
+	position:absolute;}
+	
+		.carta7 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta7 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta8{
+	height:100px;
+	width:100px;
+	top:1090px;
+	left:1000px;
+	position:absolute;}
+	
+		.carta8 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta8 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta9{
+	height:100px;
+	width:100px;
+	top:1490px;
+	left:100px;
+	position:absolute;}
+	
+		.carta9 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta9 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta10{
+	height:100px;
+	width:100px;
+	top:1490px;
+	left:400px;
+	position:absolute;}
+	
+		.carta10 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta10 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta11{
+	height:100px;
+	width:100px;
+	top:1490px;
+	left:700px;
+	position:absolute;}
+	
+		.carta11 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta11 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta12{
+	height:100px;
+	width:100px;
+	top:1490px;
+	left:1000px;
+	position:absolute;}
+	
+		.carta12 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta12 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+		.carta13{
+	height:100px;
+	width:100px;
+	top:1890px;
+	left:400px;
+	position:absolute;}
+	
+		.carta13 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+	.carta13 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+	.carta14{
+	height:100px;
+	width:100px;
+	top:1890px;
+	left:700px;
+	position:absolute;}
+	
+		.carta14 img:hover{
+opacity: 0.8;
+   transition: 0.70s;
+  -webkit-transition: 0.70s;
+  -moz-transition: 0.70s;
+  -ms-transition: 0.70s;
+  -o-transition: 0.70s;
+  -webkit-transform: rotate(5deg);
+  -moz-transform: rotate(5deg);
+  -o-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+  transform: rotate(5deg);
+}
+.carta14 img{
+	-webkit-box-shadow: 7px 7px 5px black;
+	-moz-box-shadow: 7px 7px 5px black;
+	box-shadow: 0px 7px 20px black;
+	border-radius: 8px;
+}
+
+.canto {
+
+   position: fixed;
+width:10px;
+height:10px;
+top:450px;
+   left: 1250px;
+   z-index:2;
+
+}
